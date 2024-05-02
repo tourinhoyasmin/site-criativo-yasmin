@@ -15,3 +15,10 @@
 .cabecalho-imagem{
     width: 30%;
 }
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
