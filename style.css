@@ -77,3 +77,14 @@
     grid-template-columns: 25% 25% 25% 25%;
 }
 
+.rodape{
+    background-color: #000000;
+    text-align: center;
+}
+
+.rodape-imagem{
+    width: 38%;
+}
+
+
+
